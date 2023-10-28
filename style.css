@@ -1,0 +1,16 @@
+h1{
+    color:brown;
+}
+
+p{
+    color:blueviolet;
+}
+
+
+button{
+    color:palevioletred;
+    background-color: azure;
+}
+body{
+    background-color: rgb(200,20,220);
+}
